@@ -11,8 +11,8 @@ The raw recording files are distributed separately.
 
 **Code release:** [v1.0.0](https://github.com/GreamDesu/TAVIB/releases/tag/v1.0.0). The DOI badge above identifies the code archive.
 
-**Dataset DOI (reserved; not yet public):** `10.5281/zenodo.23319677`.
-The TAVIB recording archive will be available separately when its Zenodo record is published.
+**Dataset DOI:** [10.5281/zenodo.23319677](https://doi.org/10.5281/zenodo.23319677).
+Download `TAVIB_dataset.zip` from this Zenodo record.
 
 ## Contents
 
@@ -80,8 +80,8 @@ repository/
     LICENSE
 ```
 
-The raw dataset directory is excluded by `.gitignore`. Its public download link
-will be added above when available.
+The raw dataset directory is excluded by `.gitignore`. Use the dataset DOI above
+to download the recordings.
 
 If the dataset is elsewhere, edit
 [`tactile_dataset_validation/dataset_config.json`](tactile_dataset_validation/dataset_config.json).
@@ -190,7 +190,8 @@ python -m unittest discover -s tests -v
 
 Citation metadata for code version 1.0.0 is provided in [`CITATION.cff`](CITATION.cff).
 Cite the code using DOI [10.5281/zenodo.23319688](https://doi.org/10.5281/zenodo.23319688),
-and cite the associated data descriptor and dataset when published.
+and cite the dataset using DOI [10.5281/zenodo.23319677](https://doi.org/10.5281/zenodo.23319677).
+Cite the associated data descriptor when published.
 
 The active-touch data were previously deposited in the
 [original OSF dataset](https://doi.org/10.17605/OSF.IO/G4AE8), associated with

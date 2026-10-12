@@ -27,5 +27,5 @@ The saved reference artifacts retain their original run metadata. Reproduction
 was performed in a separate copy, so it did not replace the bundled models or
 reference results with newly trained versions.
 
-The main README records the reserved dataset DOI; the dataset is not yet public.
+The main README links to the dataset and code DOIs on Zenodo.
 Uploading to GitHub and execution on Linux/macOS were not part of this check.
