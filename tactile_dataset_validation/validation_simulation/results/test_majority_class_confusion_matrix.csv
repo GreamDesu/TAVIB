@@ -1,0 +1,7 @@
+true_label,predicted_FLEX,predicted_PLA,predicted_Silicone12,predicted_Silicone18,predicted_Silicone40,predicted_TPU
+FLEX,0.0,1.0,0.0,0.0,0.0,0.0
+PLA,0.0,1.0,0.0,0.0,0.0,0.0
+Silicone12,0.0,1.0,0.0,0.0,0.0,0.0
+Silicone18,0.0,1.0,0.0,0.0,0.0,0.0
+Silicone40,0.0,1.0,0.0,0.0,0.0,0.0
+TPU,0.0,1.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it and the associated data descriptor when available."
+type: software
+title: "TAVIB: Tactile sensing time series data for robotic object interaction: loading and validation code"
+authors:
+  - family-names: Yelenov
+    given-names: Amir
+  - family-names: Sandykbayeva
+    given-names: Danissa
+  - family-names: Zhanuzakova
+    given-names: Valeriya
+  - family-names: Mukhamediya
+    given-names: Azamat
+  - family-names: Wan
+    given-names: Tengyuan
+  - family-names: Li
+    given-names: Qiang
+  - family-names: Kappassov
+    given-names: Zhanat
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-12"
+doi: "10.5281/zenodo.23319688"
+repository-code: "https://github.com/GreamDesu/TAVIB"
+url: "https://doi.org/10.5281/zenodo.23319688"

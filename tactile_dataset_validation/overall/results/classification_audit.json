@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "task": "experimental",
+      "status": "PASS",
+      "feature_shape": [
+        1750,
+        272
+      ],
+      "record_count": 1750
+    },
+    {
+      "task": "simulation",
+      "status": "PASS",
+      "feature_shape": [
+        35,
+        272
+      ],
+      "record_count": 35
+    },
+    {
+      "task": "strawberries",
+      "status": "PASS",
+      "feature_shape": [
+        6000,
+        272
+      ],
+      "record_count": 6000
+    },
+    {
+      "task": "slippage",
+      "status": "PASS",
+      "feature_shape": [
+        52473,
+        30
+      ],
+      "record_count": 35
+    }
+  ],
+  "dataset_config": "dataset_config.json",
+  "source_file_index": "metadata/file_index.csv"
+}

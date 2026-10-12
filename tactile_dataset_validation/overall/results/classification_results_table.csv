@@ -1,0 +1,5 @@
+subset,prediction_target,model,test_records_or_signals,test_windows,test_macro_f1,test_accuracy,test_balanced_accuracy,majority_macro_f1,majority_accuracy,majority_balanced_accuracy
+experimental,material,random_forest,350,not_applicable,1.0,1.0,1.0,0.07407407407407407,0.2857142857142857,0.16666666666666666
+simulation,material,random_forest,6,not_applicable,1.0,1.0,1.0,0.047619047619047616,0.16666666666666666,0.16666666666666666
+strawberries,acquisition_day,random_forest,1200,not_applicable,0.9958330439613863,0.9958333333333333,0.9958333333333333,0.1,0.25,0.25
+slippage,motion_state,histogram_gradient_boosting,12,15454,0.8373698850485707,0.8607350730679154,0.8369617965049875,0.18319173357326857,0.384335799364197,0.3333333333333333

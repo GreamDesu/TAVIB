@@ -1,0 +1,5 @@
+task,split,method,aggregation_unit,n_predictions,n_recordings,macro_f1,accuracy,balanced_accuracy,recall_no_motion,recall_slippage,recall_sliding
+slippage,validation,histogram_gradient_boosting,equal_weight_per_test_recording,11276,6,0.8187763362629413,0.8386947683461291,0.8190697981047466,0.8272331986918751,0.6689665015815275,0.9610096940408376
+slippage,validation,majority_class,equal_weight_per_test_recording,11276,6,0.17512500485176874,0.358864808043246,0.3333333333333333,0.0,0.0,1.0
+slippage,test,histogram_gradient_boosting,equal_weight_per_test_recording,15454,12,0.8373698850485707,0.8607350730679154,0.8369617965049875,0.7843881193265996,0.7431991425731992,0.9832981276151637
+slippage,test,majority_class,equal_weight_per_test_recording,15454,12,0.18319173357326857,0.384335799364197,0.3333333333333333,0.0,0.0,1.0

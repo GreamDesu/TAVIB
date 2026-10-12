@@ -1,0 +1,5 @@
+task,split,method,aggregation_unit,n_predictions,macro_f1,accuracy,balanced_accuracy,recall_1,recall_2,recall_3,recall_4
+strawberries,validation,random_forest,one_prediction_per_csv,1200,0.9214131040433235,0.9216666666666666,0.9216666666666666,0.8333333333333334,0.8533333333333334,1.0,1.0
+strawberries,validation,majority_class,one_prediction_per_csv,1200,0.1,0.25,0.25,1.0,0.0,0.0,0.0
+strawberries,test,random_forest,one_prediction_per_csv,1200,0.9958330439613863,0.9958333333333333,0.9958333333333333,1.0,1.0,0.9833333333333333,1.0
+strawberries,test,majority_class,one_prediction_per_csv,1200,0.1,0.25,0.25,1.0,0.0,0.0,0.0

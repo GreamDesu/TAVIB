@@ -1,0 +1,16 @@
+{
+  "command": "python tactile_dataset_validation/run_all.py",
+  "postprocess": [
+    "python tactile_dataset_validation/overall/summary.py",
+    "python tactile_dataset_validation/overall/audit.py"
+  ],
+  "tasks": [
+    "experimental",
+    "simulation",
+    "strawberries",
+    "slippage"
+  ],
+  "random_seed": 42,
+  "requirements": "tactile_dataset_validation/requirements.txt",
+  "from_saved_features_command": "python tactile_dataset_validation/run_all.py --from-features"
+}

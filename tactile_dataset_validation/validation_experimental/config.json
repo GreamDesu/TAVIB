@@ -1,0 +1,7 @@
+{
+  "task": "experimental",
+  "prediction_target": "material",
+  "classes": ["FLEX", "PLA", "Silicone12", "Silicone18", "Silicone40", "TPU"],
+  "model": "RandomForestClassifier(n_estimators=100, max_depth=10, max_features='sqrt', min_samples_leaf=5, bootstrap=True, class_weight='balanced', random_state=42)",
+  "split": "Within each original material/infill-folder and force group, deterministic 30/10/10 train/validation/test allocation after rng(42) shuffle."
+}

@@ -1,0 +1,5 @@
+task,split,method,aggregation_unit,n_predictions,macro_f1,accuracy,balanced_accuracy,recall_FLEX,recall_PLA,recall_Silicone12,recall_Silicone18,recall_Silicone40,recall_TPU
+experimental,validation,random_forest,one_prediction_per_csv,350,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+experimental,validation,majority_class,one_prediction_per_csv,350,0.07407407407407407,0.2857142857142857,0.16666666666666666,0.0,1.0,0.0,0.0,0.0,0.0
+experimental,test,random_forest,one_prediction_per_csv,350,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+experimental,test,majority_class,one_prediction_per_csv,350,0.07407407407407407,0.2857142857142857,0.16666666666666666,0.0,1.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    "experimental",
+    "simulation",
+    "strawberries",
+    "slippage"
+  ],
+  "matrix": "row-normalized test confusion matrix"
+}

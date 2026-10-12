@@ -1,0 +1,4 @@
+true_label,predicted_no_motion,predicted_slippage,predicted_sliding
+no_motion,0.0,0.0,1.0
+slippage,0.0,0.0,1.0
+sliding,0.0,0.0,1.0

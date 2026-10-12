@@ -1,0 +1,28 @@
+{
+  "task": "experimental",
+  "classes": [
+    "FLEX",
+    "PLA",
+    "Silicone12",
+    "Silicone18",
+    "Silicone40",
+    "TPU"
+  ],
+  "estimator": "random_forest",
+  "records_by_split": {
+    "train": 1050,
+    "validation": 350,
+    "test": 350
+  },
+  "windows_by_split": null,
+  "feature_shape": [
+    1750,
+    272
+  ],
+  "feature_file": "derived/features.npz",
+  "file_index_sha256": "6cfd2aca4c080386ea863f64284c6d679922461226dfb74aebda95463f74c43f",
+  "path_mapping_sha256": "983ad3b17cb735d74dc3630f12c2796ed0db1dbe9cb7452bf6ab136d6faedf5d",
+  "release_manifest_sha256": "75e03549f70b7c5d90840a2e2bce481c6b4ba1c61306757008ae113bc7ccab82",
+  "workflow": "classification",
+  "dataset_config": "dataset_config.json"
+}

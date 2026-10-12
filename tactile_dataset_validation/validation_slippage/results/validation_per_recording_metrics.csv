@@ -1,0 +1,13 @@
+task,split,method,recording_id,window_count,macro_f1,accuracy,balanced_accuracy,recall_no_motion,recall_slippage,recall_sliding
+slippage,validation,histogram_gradient_boosting,data/slippage/aluminum/Orientation_15/speed_low/data.csv,2834,0.7669826964382384,0.757939308398024,0.7641960587535991,0.7544022242817423,0.7052947052947053,0.8328912466843501
+slippage,validation,histogram_gradient_boosting,data/slippage/aluminum/Orientation_45/speed_medium/data.csv,744,0.8348703314260723,0.8387096774193549,0.8493636244673164,0.807909604519774,0.7401812688821753,1.0
+slippage,validation,histogram_gradient_boosting,data/slippage/plastic/Orientation_0/speed_medium/data.csv,1574,0.8835382561136261,0.9008894536213469,0.8906086073617558,0.9556650246305419,0.7219917012448133,0.9941690962099126
+slippage,validation,histogram_gradient_boosting,data/slippage/plastic/Orientation_15/speed_low/data.csv,1277,0.7720451926829912,0.8285043069694596,0.7586436322226358,0.9322638146167558,0.4046692607003891,0.9389978213507625
+slippage,validation,histogram_gradient_boosting,data/slippage/wood/Orientation_0/speed_medium/data.csv,1643,0.8084961804833694,0.8484479610468655,0.8051674575079711,0.5721925133689839,0.8433098591549296,1.0
+slippage,validation,histogram_gradient_boosting,data/slippage/wood/Orientation_15/speed_low/data.csv,3204,0.846725360433351,0.8576779026217228,0.8464394083152017,0.9409660107334525,0.5983522142121525,1.0
+slippage,validation,majority_class,data/slippage/aluminum/Orientation_15/speed_low/data.csv,2834,0.1400966183574879,0.26605504587155965,0.3333333333333333,0.0,0.0,1.0
+slippage,validation,majority_class,data/slippage/aluminum/Orientation_45/speed_medium/data.csv,744,0.16054421768707483,0.3172043010752688,0.3333333333333333,0.0,0.0,1.0
+slippage,validation,majority_class,data/slippage/plastic/Orientation_0/speed_medium/data.csv,1574,0.20235988200589972,0.4358322744599746,0.3333333333333333,0.0,0.0,1.0
+slippage,validation,majority_class,data/slippage/plastic/Orientation_15/speed_low/data.csv,1277,0.17626728110599077,0.3594361785434612,0.3333333333333333,0.0,0.0,1.0
+slippage,validation,majority_class,data/slippage/wood/Orientation_0/speed_medium/data.csv,1643,0.19937428896473264,0.4266585514303104,0.3333333333333333,0.0,0.0,1.0
+slippage,validation,majority_class,data/slippage/wood/Orientation_15/speed_low/data.csv,3204,0.17210774098942658,0.3480024968789014,0.3333333333333333,0.0,0.0,1.0

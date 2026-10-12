@@ -1,0 +1,22 @@
+# The raw data are distributed separately. Keep the bundled validation artifacts.
+/TAVIB_dataset/
+*.zip
+
+# Local Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local settings and temporary files
+.env
+.env.*
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/

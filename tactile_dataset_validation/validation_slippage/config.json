@@ -1,0 +1,7 @@
+{
+  "task": "slippage",
+  "prediction_target": "motion_state",
+  "classes": ["no_motion", "slippage", "sliding"],
+  "model": "HistGradientBoostingClassifier(max_iter=200, max_leaf_nodes=15, min_samples_leaf=20, learning_rate=0.1, l2_regularization=1.0, class_weight='balanced', early_stopping=False, random_state=42)",
+  "split": "35 unique recordings: one duplicated aluminum 0-degree recording omitted; deterministic material/orientation grouped 17/6/12 train/validation/test split."
+}
