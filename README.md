@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23319688.svg)](https://doi.org/10.5281/zenodo.23319688)
 
 Loading examples and technical-validation code accompanying the data descriptor
-*TAVIB: Tactile sensing time series data for robotic object interaction*.
+*Tactile sensing time series data for robotic object interaction*.
 
 This repository contains the four classification workflows, fixed split manifests,
 extracted features, trained models, predictions, metrics, and confusion matrices.

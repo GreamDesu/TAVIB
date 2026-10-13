@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it and the associated data descriptor when available."
 type: software
-title: "TAVIB: Tactile sensing time series data for robotic object interaction: loading and validation code"
+title: "TAVIB: loading and technical-validation code"
 authors:
   - family-names: Yelenov
     given-names: Amir
